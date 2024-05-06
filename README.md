@@ -76,4 +76,6 @@ In this project, I use UrbanSound8K Dataset preprocess it using Mel Frequency Ce
     * Preprocess the new audio data using mfcc
     * Predict the classes
     * Inverse trasform the Predictied class label
+## Conclusion 
+* Accurcay - 77%
    
